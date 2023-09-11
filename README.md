@@ -62,12 +62,6 @@ Thanks a lot in advance!
     </table>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=esraarnusaslan&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=esraarnusaslan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=winnerdev2012&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
