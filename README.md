@@ -62,6 +62,4 @@ Thanks a lot in advance!
     </table>
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=winnerdev2012&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
