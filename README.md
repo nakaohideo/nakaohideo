@@ -1,3 +1,22 @@
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
+
+<h4 align='center'>
+  Senior AI | FullStack Web Developer 
+</h4>
+
+<!-- <p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    </a>
+     <a href="https://github.com/Supernova1024">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Supernova1024?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    </p> -->
+
+
+## 👩  About me:
+<p>
+I am senior <b>AI</b> & <b>Web Developer</b> for 8 years with <b>Blockchain</b>.<br>
+I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-driven</b>, <b>Ability to deal with ambiguity and learn on the fly</b>, <b>Lifelong learning attitude and perseverance</b>, <b>Strong work ethic</b>, <b>Strong work ethic</b>, <b>Values</b>, <b>Integrity and Trust</b>.<br>
+
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
 🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence, Ruby on Rails
