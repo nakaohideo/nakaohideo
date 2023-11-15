@@ -12,7 +12,7 @@
     </p> -->
 
 
-## 👩  About me:
+## 🧑  About me:
 <p>
 I am senior <b>AI</b> & <b>Web Developer</b> for 8 years with <b>Blockchain</b>.<br>
 I am focusing on <b>Self-motivated</b>, <b>action-oriented</b>, <b>Results-driven</b>, <b>Ability to deal with ambiguity and learn on the fly</b>, <b>Lifelong learning attitude and perseverance</b>, <b>Strong work ethic</b>, <b>Strong work ethic</b>, <b>Values</b>, <b>Integrity and Trust</b>.<br>
